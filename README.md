@@ -16,7 +16,7 @@ It allows you to enter multiple question-answer pairs, along with optional image
 
 ---
 
-## ▶ How to Use
+##  How to Use
 
 
 1. **Install the required library:**
